@@ -102,7 +102,7 @@ We can emphasize the impact of the integrated luminosity uncertainty by consider
 > * The branching ratio for $$ H \rightarrow \mu \mu $$ can be approximated as $$ \approx 2 \times 10^{-4} $$ ([see Table 11.3 in the 2022 PDG](https://pdg.lbl.gov/2022/reviews/rpp2022-rev-higgs-boson.pdf))
 >
 > What is the minimum and maximum expected event yield given the uncertainty in integrated luminosity?
-> Vote for the corect answer in the [short lumi exercise Mattermost channel](https://mattermost.web.cern.ch/cmsdaslpc2022/pl/9gg4eh5mmf81pfiagrp64c4ero).
+> Vote for the corect answer in the [short lumi exercise Mattermost channel](https://mattermost.web.cern.ch/cmsdascern2023/pl/ook5zqnqjpy39fjkjupxczzabw).
 >
 > $$ \mathrm{N}_{H \rightarrow \mu \mu}^{2018} = \left( \mathcal{L}_{int}^{2018} \pm \delta \right) \cdot \sigma_{\mathrm{Higgs}}^{\mathrm{total}} \cdot \mathcal{B}_{H \rightarrow \mu \mu} $$
 > 

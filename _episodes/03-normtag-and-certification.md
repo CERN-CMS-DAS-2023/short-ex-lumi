@@ -49,7 +49,10 @@ It covers all of Run 2 for which there is a final approved number for physics (w
 # Data Certification
 
 > ## Note
-> This section has some overlap with [Excercise 6 from the PPD offline lesson](https://twiki.cern.ch/twiki/bin/view/CMS/SWGuideCMSDataAnalysisSchool2022PPDExercise#Exercise_6_Compute_the_integrate) and [Exercise 14 from the third Pre-Exercise Set](https://fnallpc.github.io/cms-das-pre-exercises/03-CMSDataAnalysisSchoolPreExerciseThirdSet/index.html)
+> This section has some overlap with [Exercise 14 from the third Pre-Exercise Set](https://cern-cms-das-2023.github.io/cms-das-pre-exercises/03-CMSDataAnalysisSchoolPreExerciseThirdSet/index.html#exercise-14----combining-the-data-and-calculating-luminosity)
+<!--
+[Excercise 6 from the PPD offline lesson](https://twiki.cern.ch/twiki/bin/view/CMS/SWGuideCMSDataAnalysisSchool2022PPDExercise#Exercise_6_Compute_the_integrate)
+-->
 {: .callout}
 
 Data collected by CMS is *certified* on a luminosity-section basis to determine the subset of *data of good quality to be included in physics analyses*.
@@ -59,7 +62,7 @@ One of the main deliverables of this process are JSON files listing runs and lum
 
 > ## 3.2 Query processedLumis.json to determine the recorded luminosity for your crab job datset
 >
-> Refer to your submitted crab job as part of the [third set of the Pre-Exercises](https://fnallpc.github.io/cms-das-pre-exercises/03-CMSDataAnalysisSchoolPreExerciseThirdSet/index.html).
+> Refer to your submitted crab job as part of the [third set of the Pre-Exercises](https://cern-cms-das-2023.github.io/cms-das-pre-exercises/03-CMSDataAnalysisSchoolPreExerciseThirdSet/index.html#exercise-14----combining-the-data-and-calculating-luminosity).
 > Recall that you had to transfer the resulting `processedLumis.json` file to lxplus.
 > 
 > Using the physics normtag, what is the recorded luminosity in inverse femtobarns for your crab job datset?
